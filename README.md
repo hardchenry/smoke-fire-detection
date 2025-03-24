@@ -21,6 +21,7 @@ cd smoke-fire-detection
 ```bash
 pip install -r requirements.txt
 ```
+and https://www.kaggle.com/datasets/atulyakumar98/test-dataset download and copy the projet file.
 
 ## Usage
 
